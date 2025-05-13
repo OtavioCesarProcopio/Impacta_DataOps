@@ -1,4 +1,4 @@
-name: Black Code Style Check
+name: black Code Style Check
 
 on:
   push:
